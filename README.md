@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning OpenTelemtry
+- 🌱 I’m currently learning OpenTelemetry
 - 👯 I’m looking to collaborate on @pionerasdev
-- 🤔 I’m looking for help to learn more of GCP and ML
+- 🤔 I’m looking for help to learn more about GCP and ML
 - 💬 Ask me about Diversity & Design 
 - 📫 How to reach me: @marianvilla
 - 😄 Pronouns: Her/She
