@@ -6,7 +6,7 @@
 - 💬 Ask me about Diversity & Design 
 - 📫 How to reach me: @marianvilla
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: My favorite color is orangered	#ff4500	255,69,0
+- ⚡ Fun fact: My favorite color is orange-red	#ff4500	255,69,0
 
 <p align="left">
 <br>
