@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning OpenTelemetry
-- 👯 I’m looking to collaborate on @pionerasdev
-- 🤔 I’m looking for help to learn more about GCP and ML
-- 💬 Ask me about Diversity & Design 
+- 🔭 I am a lifelong learner of JavaScript and web technologies.  
+- 👯 I’m supporting @pionerasdev Community
+- 🤔 I’m looking for help to learn more about GCP and TensorFlow.js
+- 💬 Ask me about Design, Diversity & Leadership 
 - 📫 How to reach me: @marianvilla
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: My favorite color is orange-red	#ff4500	255,69,0
+- 🌱 I thoroughly enjoy botanical adventures as I cultivate my own food.
 
 <p align="left">
 <br>
