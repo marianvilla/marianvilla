@@ -8,6 +8,7 @@
 - ⚡ Fun fact: My favorite color is orange-red	#ff4500	255,69,0
 - 🌱 I thoroughly enjoy botanical adventures as I cultivate my own food.
 
+<!--
 <p align="left">
 <br>
 💻 TECH/PRODUCTS I USE <3
@@ -23,13 +24,13 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-<!--
+
 **marianvilla/marianvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning OpenTelemtry
+- 🌱 I’m currently learning OpenTelemetry
 - 👯 I’m looking to collaborate on @pionerasdev
 - 🤔 I’m looking for help with GCP
 - 💬 Ask me about Diversity & Design 
